@@ -1,3 +1,4 @@
+![Python 3.13.2](https://img.shields.io/badge/python-3.13.2-blue)
 # MNIST Digit Classification with CNNs
 
 ![MNIST Sample](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)  
